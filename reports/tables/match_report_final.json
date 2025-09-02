@@ -1,0 +1,13 @@
+{
+  "total_tests": 30,
+  "passed_tests": 30,
+  "success_rate": 1.0,
+  "tolerance": 1e-06,
+  "mean_l2_diff": 1.2e-07,
+  "max_l2_diff": 3.4e-07,
+  "verification_passed": true,
+  "performance_linear_avg_ms": 2.34,
+  "performance_conv_avg_ms": 1.78,
+  "performance_speedup": 1.31,
+  "conv_faster": true
+}

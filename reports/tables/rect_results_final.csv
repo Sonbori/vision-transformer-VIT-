@@ -1,0 +1,4 @@
+resolution,height,width,patches,interpolate,memory_mb,latency_ms,latency_std_ms,top1_accuracy,top5_accuracy,throughput_fps
+224x224,224,224,196,True,1024,12.3,0.8,0.815,0.951,81.3
+320x224,320,224,280,True,1456,18.7,1.2,0.832,0.96,53.5
+448x320,448,320,560,True,2341,35.2,2.1,0.848,0.968,28.4

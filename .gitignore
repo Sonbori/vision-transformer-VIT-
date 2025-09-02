@@ -1,0 +1,59 @@
+# Python & builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+.python-version
+
+# Data & heavy artifacts
+/experiments/checkpoints/
+/experiments/logs/
+/data/
+*.pt
+*.pth
+*.safetensors
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+*.DS_Store
+
+# Keep specific reports
+!/reports/figures/**
+!/reports/tables/**
+!/reports/1-pager*.pdf
+!/experiments/results_summary.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# Matplotlib
+.matplotlib
+
+# PyTorch
+.torch/

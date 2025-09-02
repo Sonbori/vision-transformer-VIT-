@@ -1,0 +1,6 @@
+rank,class_id,class_name,probability
+1,281,tabby_cat,0.4123
+2,285,egyptian_cat,0.2845
+3,282,tiger_cat,0.1567
+4,287,lynx,0.0892
+5,292,lion,0.0573
