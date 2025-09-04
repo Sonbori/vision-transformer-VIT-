@@ -7,8 +7,8 @@
   "max_l2_diff": 0.0003469367220532149,
   "mean_relative_diff": 5.477717307174273e-07,
   "verification_passed": false,
-  "performance_linear_avg_ms": 40.65844289935194,
-  "performance_conv_avg_ms": 19.169838139554486,
-  "performance_speedup": 2.1209591131319203,
-  "conv_faster": true
+  "performance_linear_avg_ms": 28.321197398146616,
+  "performance_conv_avg_ms": 30.506805799808355,
+  "performance_speedup": 0.9283566946994015,
+  "conv_faster": false
 }
